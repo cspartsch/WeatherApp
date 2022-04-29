@@ -21,7 +21,7 @@ h1 {
   margin-top: 80px;
   padding: 30px;
   border-radius: 24px;
-  margin-bottom: 100px;
+  margin-bottom: 5px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
@@ -108,4 +108,9 @@ h1 {
 }
 .weatherIcon {
   color: #40a8c4;
+}
+
+.footer {
+  color: #24527a;
+  padding: 10px;
 }
